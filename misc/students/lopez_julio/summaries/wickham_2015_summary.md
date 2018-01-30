@@ -1,0 +1,1 @@
+We need to stop stigmatizing amateur statisticians; instead, we should encourage them, as well as change the current statistics curriculum. In order to teach statistics, the type of grammar we use is crucial. Grammars need to be both flexible and constraining. We need to show students the immediate pay-offs of learning a good grammar for statistics.
